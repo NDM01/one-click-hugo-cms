@@ -1,6 +1,6 @@
 ---
 title: "Personal Blog"
-subtitle: Welcome to this blog!
+subtitle: Welcome to my blog!
 image: /img/teste.jpg
 blurb:
     heading: Who I am?
