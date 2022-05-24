@@ -4,7 +4,7 @@ subtitle: Welcome to my blog!
 image: /img/teste.jpg
 blurb:
     heading: Who I am?
-    text: "My name is Daniel, I am 18 years old and I'm from Portugal. I love programming and learn new languages. On my freetimes I like to play videogames and go to the beach."
+    text: "My name is Daniel, I am 18 years old and I'm from Portugal. I love programming and learn new languages. On my freetimes I like to play videogames and go to the beach noljn."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
