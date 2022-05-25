@@ -8,7 +8,7 @@ contact_entries:
     text: "Monday – Saturday: 9AM – 6PM "
 ---
 
-We’d love to get in touch with you and hear your ideas and
+If u want to contact me  love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
 is valuable for us.
 
