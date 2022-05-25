@@ -7,7 +7,7 @@ blurb:
     text: "My name is Daniel, I am 18 years old and I'm from Portugal. I love programming and learn new languages. On my freetimes I like to play videogames and go to the beach."
 intro:
     heading: "When I start programing?"
-    text: "I start programing on 2019, and my first language was C#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    text: "I start programing on 2019, and my first language was C# DFSD SFEWWWWF TRWWRG XVCXV AAEFRET RTEW"
 products:
     - image: img/teste.jpg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
