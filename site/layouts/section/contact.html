@@ -11,13 +11,12 @@
 	        	{{ range .Params.contact_entries }}
 				<div>
 					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<img src=src/css/py.jpg alt="" class="center db mb3" style="width: 440px">
 					<p>{{ .text }}</p>
 				</div>
 			{{ end }}
 		</div>
 
-		<!-- {{ partial "contact-form" . }} -->
+		{{ partial "contact-form" . }}
 
 	</div>
 </div>
