@@ -1,13 +1,15 @@
 <div class="bg-off-white pv4">
 	<div class="ph3 mw7 center">
+		<link href="src/css/Styles.css" rel="stylesheet">
 
 		<h2 class="f2 b lh-title mb3">Latest projects</h2>
 
 		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
 			{{ range first 4 (where .Data.Pages "Type" "post") }}
 				<div class="ph1-ns w-50-ns flex">
-					<!-- {{ .Render "li" }} -->
+                 <div class="container">
 					{{ partial "social-icon" (dict "link" "https://sofiaconnect.pt//" "svg" "icons-instagram") }}
+				 </div>
 				</div>
 			{{ end }}
 		</div>
