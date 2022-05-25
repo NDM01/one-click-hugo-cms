@@ -2,6 +2,7 @@
 title: "Contact"
 logo: 
 contact_entries:
+    title: "Contact"
   - heading: Location
     text: "3153 Lynn Avenue, South San Francisco, California 94080"
   - heading: Working hours
