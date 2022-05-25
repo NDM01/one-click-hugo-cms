@@ -4,7 +4,7 @@
 	<div class="center mw6 pv3">
 
 		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
-
+<!-- 
 		{{ .Content }}
 
 		<div class="flex-ns mb3">
@@ -16,7 +16,11 @@
 			{{ end }}
 		</div>
 
-		{{ partial "contact-form" . }}
+		{{ partial "contact-form" . }} -->
+		<div class="ph2-ns w-50-ns mb4">
+			<img src="{{ .image }}" alt="" class="center db mb3" style="width: 240px">
+			<p>{{ .text }}</p>
+		</div>
 
 	</div>
 </div>
