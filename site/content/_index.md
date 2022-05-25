@@ -10,7 +10,7 @@ intro:
     text: "I start programing on 2019, and my first language was C# and it gave me a great desire to learn new languages ​​and deepen my knowledge."
 products:
     - image: img/py.jpg
-      text: "I already worked with HTML, CSS, JavaScript and Java. At the moment I'm learning Python and Netlify"
+      text: "I already worked with HTML, CSS, JavaScript, Java and PHP. At the moment I'm learning Python and Netlify."
     # - image: /img/illustrations-coffee-gear.svg
     #   text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
