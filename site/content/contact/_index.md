@@ -3,7 +3,7 @@ title: "Contact"
 logo: 
 contact_entries:
   - heading: Location
-    text: ""
+    text: "Rua Manuel Martins Santos S.Pedro da Cova"
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 6PM "
 ---
