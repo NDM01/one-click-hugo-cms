@@ -1,7 +1,6 @@
 ---
 title: "Contact"
 logo: 
-image: src/img/py.jpg
 contact_entries:
   - heading: Location
     text: "Rua Manuel Martins Santos S.Pedro da Cova"
