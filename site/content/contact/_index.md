@@ -15,7 +15,8 @@ If u want to contact me I will make my contacts available here:
 <!-- <h3 class="f4 b lh-title mb2">How can I get…?</h3> -->
 
 -> 2004ndof@gmail.com
- -> 916245635
+
+-> 916245635
 
 
 You can also use the form below for any inquiries about coffee
