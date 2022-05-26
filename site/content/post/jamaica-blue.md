@@ -16,5 +16,7 @@ With this project we intend to help people better understand Portuguese sign lan
 and demystify some prejudices in society and we think we can do it. It was a very enjoyable 
 project because we both learned programming and sign language.
 
+Acess here the Website [SofiaConnect](http://sofiaconnect.pt/)
+
 
 
