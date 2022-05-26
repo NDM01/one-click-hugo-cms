@@ -4,8 +4,7 @@ subtitle: Welcome to my blog!
 image: /img/teste.jpg
 blurb:
     heading: Who I am?
-     text: "My name is Daniel, I am 18 years old and I'm from Portugal. I love programming and learn new languages. On my freetimes I like to play videogames and go to the beach."
-
+    text: "My name is Daniel, I am 18 years old and I'm from Portugal. I love programming and learn new languages. On my freetimes I like to play videogames and go to the beach."
 intro:
     heading: "When I start programing?"
     text: "I start programing on 2019, and my first language was C# and it gave me a great desire to learn new languages ​​and deepen my knowledge."
