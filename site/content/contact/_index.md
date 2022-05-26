@@ -10,11 +10,13 @@ contact_entries:
  ## Contact
 
 If u want to contact me I will make my contacts available here:
- -> 2004ndof@gmail.com
- -> 916245635
-
+ 
 
 <!-- <h3 class="f4 b lh-title mb2">How can I get…?</h3> -->
+
+-> 2004ndof@gmail.com
+ -> 916245635
+
 
 You can also use the form below for any inquiries about coffee
 availability, monthly subscriptions and scheduling a 1-on-1 session
