@@ -1,22 +1,18 @@
-<html>
-    teste
-</html>
-<!-- ---
-title: 'Sofiaconnect'
-date: 2022-05-20T15:04:10.000Z
-description: >-
-  The goal of our project is to integrate the deaf community into our society. We have 
-    noticed that there is a great lack of Portuguese sign language content.
----
+{{ define "main" }}
 
-We decided to create this project, so that anyone can learn sign language, since all the websites available to learn 
-sign language are usually paid. We would like to bring about something new, we created a 
-virtual person, Sofia, then analyzed the different solutions and came to the conclusion that 
-we could use the software blender for that purpose. 
+{{ partial "jumbotron" (dict "imageUrl" "/img/teste.jpg" "title" "Projects") }}
 
-Our project relies on Sofia to help us, a sign language translator who will teach and demystify prejudices in society.
-With this project we intend to help people better understand Portuguese sign language 
-and demystify some prejudices in society and we think we can do it. It was a very enjoyable 
-project because we both learned programming and sign language.
+<div class="mw7 center">
+  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+    <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-2 br1 mb2 db raise w-100">
+      <h2 class="f3 b lh-title mb1 primary">SofiaConnect</h2>
+      <!-- <p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
+      <p class="mb0">The goal of our project is to integrate the deaf community into our society. We have 
+        noticed that there is a great lack of Portuguese sign language content.</p>
+      <p class="link b dib black mb0">Read more →</p>
+    </a>
+  </ul>
+  <!-- {{ partial "pagination" . }} -->
+</div>
 
-Acess the Website here [SofiaConnect](https://sofiaconnect.pt/) -->
+{{end}}
