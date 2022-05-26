@@ -1,5 +1,5 @@
 ---
-title: 'Sofiaconnect'
+title: __'Sofiaconnect'__
 date: 2022-05-20T15:04:10.000Z
 description: >-
   The goal of our project is to integrate the deaf community into our society. We have 
