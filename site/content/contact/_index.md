@@ -9,9 +9,10 @@ contact_entries:
 ---
  ## Contact
 
-If u want to contact me  love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+If u want to contact me I will make my contacts available here:
+-> 2004ndof@gmail.com
+-> 916245635
+
 
 <!-- <h3 class="f4 b lh-title mb2">How can I get…?</h3> -->
 
