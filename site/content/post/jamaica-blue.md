@@ -6,9 +6,14 @@ description: >-
     noticed that there is a great lack of Portuguese sign language content.
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
-
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+We decided to create this project, so that anyone can learn sign language,since all the websites available to learn 
+sign language are usually paid. We would like to bring about something new, we created a 
+virtual person, Sofia, then analyzed The different solutions and came to the conclusion that 
+we could use the software blender for that purpose. 
+Our project relies on Sofia to help us, a sign language translator who will teach and demystify prejudices in society.
+With this project we intend to help people better understand Portuguese sign language 
+and demystify some prejudices in society and we think we can do it. It was a very enjoyable 
+project because we both learned programming and sign language.
 
 ## A little history
 
