@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  # repo: NDM01/one-click-hugo-cmsa
+  repo: NDM01/one-click-hugo-cmsa
   branch: main
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
