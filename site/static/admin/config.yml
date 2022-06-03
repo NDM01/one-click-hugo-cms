@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: /NDM01/one-click-hugo-cms-
   branch: main
 
