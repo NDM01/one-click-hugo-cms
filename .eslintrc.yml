@@ -10,7 +10,7 @@ plugins: [ "import" ]
 
 rules:
   # Possible Errors
-  # https://github.com/eslint/eslint/tree/master/docs/rules#possible-errors
+  # https://github.com/eslint/eslint/tree/main/docs/rules#possible-errors
   no-control-regex: 2
   no-console: 1
   no-debugger: 2
@@ -29,12 +29,12 @@ rules:
   valid-typeof: 2
 
   # Best Practices
-  # https://github.com/eslint/eslint/tree/master/docs/rules#best-practices
+  # https://github.com/eslint/eslint/tree/main/docs/rules#best-practices
   no-fallthrough: 2
   no-redeclare: 2
 
   # Stylistic Issues
-  # https://github.com/eslint/eslint/tree/master/docs/rules#stylistic-issues
+  # https://github.com/eslint/eslint/tree/main/docs/rules#stylistic-issues
   comma-spacing: 2
   eol-last: 2
   eqeqeq: ["error", "smart"]
@@ -69,11 +69,11 @@ rules:
   import/export: 2
 
   # Strict Mode
-  # https://github.com/eslint/eslint/tree/master/docs/rules#strict-mode
+  # https://github.com/eslint/eslint/tree/main/docs/rules#strict-mode
   strict: [2, "global"]
 
   # Variables
-  # https://github.com/eslint/eslint/tree/master/docs/rules#variables
+  # https://github.com/eslint/eslint/tree/main/docs/rules#variables
   no-undef: 2
   no-unused-vars: [2, {"args": "none"}]
 
