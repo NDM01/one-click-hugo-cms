@@ -1,8 +1,9 @@
 ---
-title: 'Sofiaconnect'
-date: 2022-05-20T15:04:10.000Z
+title: Sofiaconnect
+date: 2022-06-03T15:21:51.841Z
 description: >-
-  The goal of our project is to integrate the deaf community into our society. We have 
+  The goal of our project is to integrate the deaf community into our society.
+  We have 
     noticed that there is a great lack of Portuguese sign language content.
 ---
 
