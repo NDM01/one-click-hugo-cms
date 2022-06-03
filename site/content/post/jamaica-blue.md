@@ -5,6 +5,7 @@ description: >-
   The goal of our project is to integrate the deaf community into our society.
   We have 
     noticed that there is a great lack of Portuguese sign language content.
+image: img/logo1.svg
 ---
 
 We decided to create this project, so that anyone can learn sign language, since all the websites available to learn 
